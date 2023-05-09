@@ -8,5 +8,5 @@ Steps:
 - Edit the config file for the local repo  \
 `git config --local --edit`
 - In the [core] section, add sshCommand using the location of the preferred ssh-key. \
-Eg. `sshCommand=ssh -i ~/.ssh/id_rsa_test` \
+Eg. `sshCommand=ssh -i ~/.ssh/id_rsa_test` 
 
