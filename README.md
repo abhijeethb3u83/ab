@@ -1,7 +1,7 @@
 # Using multiple ssh-keys
 
 Steps:
-- Clone the repo
+- Clone your project repo
 - Set the username and email: \
 `git config --local user.name` \
 `git config --local user.email`
