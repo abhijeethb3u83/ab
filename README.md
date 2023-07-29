@@ -16,7 +16,7 @@ You can use any text editor you have installed. For example  `code $profile` for
 
 Add the following powershell function to the end of the file.
 
-```
+```powershell
 Function Set-LocalGit{
   git config user.name "your name"
   git config user.email "your email"
