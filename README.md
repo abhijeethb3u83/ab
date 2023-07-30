@@ -14,6 +14,7 @@ To access the powershell profile, open a terminal window with powershell and ent
 You can use any text editor you have installed. For example  `code $profile` for VS Code, or `nvim $profile` for neovim.
 
 
+
 Add the following powershell function to the end of the file.
 
 ```powershell
@@ -27,3 +28,5 @@ Function Set-LocalGit{
 
 Refresh the profile with `. $profile` \
 Now you can set these defaults in any local repo using the powershell function `Set-LocalGit`
+
+Cheers!
